@@ -49,6 +49,7 @@ http://zujuan.xkw.com/gufen/
 
 # 课外作品
 微信小程序 喵喵账本
+![Image text](https://raw.githubusercontent.com/fanyingying/myblog/master/img/miaomiao.jpg)
 
 
 ## 搭建个人博客站点
@@ -61,3 +62,4 @@ http://zujuan.xkw.com/gufen/
 - 设计工具：PS/AI
 - 前端技术：HTML5/CSS3/LESS/SASS/JS/Vue/Webpack/Bootstrap/MUI/Element
 - 版本管理、文档和自动化部署工具：Svn/Git
+-
