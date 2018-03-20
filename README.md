@@ -5,7 +5,7 @@
  - 本科/网络工程专业 
  - 工作年限：5年
  - 手机号码：13621323764
- - 技术博客：https://fanyingying.com
+ - 技术博客：https://blog.fanyingying.com
  - Github：https://github.com/fanyingying
 
  - 期望职位：web前端
@@ -50,6 +50,8 @@ http://zujuan.xkw.com/gufen/
 # 课外作品
 微信小程序 喵喵账本
 ![Image text](https://raw.githubusercontent.com/fanyingying/myblog/master/img/miaomiao.jpg)
+
+https://blog.fanyingying.com/example.html
 
 
 ## 搭建个人博客站点
