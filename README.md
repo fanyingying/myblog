@@ -9,7 +9,6 @@
  - Github：https://github.com/fanyingying
 
  - 期望职位：web前端
- - 期望薪资：税前月薪15k~20k
  - 期望城市：北京
 
 ---
