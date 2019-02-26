@@ -5,9 +5,8 @@
  - 本科/网络工程专业 
  - 工作年限：5年
  - 手机号码：13621323764
- - 技术博客：https://blog.fanyingying.com
+ - 博客：https://blog.fanyingying.com
  - Github：https://github.com/fanyingying
-
  - 期望职位：web前端
  - 期望城市：北京
 
@@ -63,4 +62,3 @@ https://blog.fanyingying.com/example.html
 - 设计工具：PS/AI
 - 前端技术：HTML5/CSS3/LESS/SASS/JS/Vue/Webpack/Bootstrap/MUI/Element
 - 版本管理、文档和自动化部署工具：Svn/Git
--
